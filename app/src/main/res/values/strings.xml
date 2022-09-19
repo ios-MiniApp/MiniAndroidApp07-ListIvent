@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">MiniAndroidApp07-ListIvent</string>
+    <string-array name="recipe">
+        <item>たこ焼き</item>
+        <item>ゴーヤチャンプルー</item>
+        <item>チョコモナカジャンボ</item>
+        <item>ブロッコリーの炒めもの</item>
+        <item>卵かけご飯</item>
+        <item>ピーマンのバター添え</item>
+        <item>たこ焼き</item>
+        <item>ゴーヤチャンプルー</item>
+        <item>チョコモナカジャンボ</item>
+        <item>ブロッコリーの炒めもの</item>
+        <item>卵かけご飯</item>
+        <item>ピーマンのバター添え</item>
+        <item>たこ焼き</item>
+        <item>ゴーヤチャンプルー</item>
+        <item>チョコモナカジャンボ</item>
+        <item>ブロッコリーの炒めもの</item>
+        <item>卵かけご飯</item>
+        <item>ピーマンのバター添え</item>
+        <item>たこ焼き</item>
+        <item>ゴーヤチャンプルー</item>
+        <item>チョコモナカジャンボ</item>
+    </string-array>
 </resources>
